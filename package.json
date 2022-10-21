@@ -1,0 +1,11 @@
+{
+    "name": "com.google.ads.mobile.adapter.applovin",
+    "displayName": "Admob.Applovin",
+    "description": "Admob.Applovin",
+    "version": "6.3.1",
+    "unity": "2017.4",
+    "author": {
+      "name": "Google LLC",
+      "url": "https://developers.google.com/admob/unity/quick-start"
+    }
+  }
